@@ -1,3 +1,4 @@
 # Misiones
 
-*Investigar al doctor DOOM
+* Investigar al doctor DOOM
+* Capturar a Red Skull
